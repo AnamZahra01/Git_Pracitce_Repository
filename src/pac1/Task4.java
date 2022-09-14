@@ -1,2 +1,4 @@
-package pac1;public class Task4 {
+package pac1;
+
+public class Task4 {
 }
